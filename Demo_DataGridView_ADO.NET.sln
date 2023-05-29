@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_DataGridView_ADO.NET", "Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET.csproj", "{B5EBACC2-07C4-423A-9049-77ED3925DC0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EBACC2-07C4-423A-9049-77ED3925DC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBACC2-07C4-423A-9049-77ED3925DC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBACC2-07C4-423A-9049-77ED3925DC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBACC2-07C4-423A-9049-77ED3925DC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544D0479-F866-4F5B-8DBC-BF7F8EEC382D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\bin\Debug\Demo_DataGridView_ADO.NET.exe.config
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\bin\Debug\Demo_DataGridView_ADO.NET.exe
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\bin\Debug\Demo_DataGridView_ADO.NET.pdb
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.Form1.resources
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.Properties.Resources.resources
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.exe
+C:\Users\OS\source\repos\Demo_DataGridView_ADO.NET\Demo_DataGridView_ADO.NET\obj\Debug\Demo_DataGridView_ADO.NET.pdb
